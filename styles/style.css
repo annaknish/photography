@@ -1,4 +1,4 @@
 body {
-  background: url(/media/main.png) no-repeat center center fixed;
+  background: url(/media/main.png) no-repeat;
   background-size: cover;
 }
